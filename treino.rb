@@ -11,7 +11,3 @@ class Teste
   end
 
 end
-
-teste = Teste.new("testedschggfdh")
-puts teste.contaCaracteres
-puts teste.texto
