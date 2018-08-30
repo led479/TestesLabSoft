@@ -16,7 +16,7 @@ class Jogo_da_velha
   def jogador
     @jogador
   end
-
+#
   def terminar_jogada x, y
     vitoria = ""
     if checa_vitoria_vertical x, y
